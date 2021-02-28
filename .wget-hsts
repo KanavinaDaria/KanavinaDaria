@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.tspu.edu.ru	0	0	1613788335	15768000
+cdn.book24.ru	0	0	1614400532	15768000
+sun9-17.userapi.com	0	0	1614401440	15768000
